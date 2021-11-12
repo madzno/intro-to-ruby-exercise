@@ -1,0 +1,2 @@
+# This error message tells us that, on line 2, we made an error by placing a regular parenthesis ")" where a curly brace "}" was expected
+# somewhere earlier in the program there was an opening curly brace "{" and this brace was never closed with a coressponding curly brace "}"
