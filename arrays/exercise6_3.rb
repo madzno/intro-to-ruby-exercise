@@ -1,0 +1,1 @@
+# my answer: arr[1][0] solution: arr.last.first
