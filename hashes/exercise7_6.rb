@@ -1,0 +1,1 @@
+# my_hash uses the varaible x as a symbol in the key. my_hash2 uses the variable x as a string in the key.
