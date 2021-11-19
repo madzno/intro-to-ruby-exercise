@@ -1,0 +1,1 @@
+# This program would output "These hashes are the same!"
